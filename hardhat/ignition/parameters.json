@@ -1,0 +1,8 @@
+{
+  "FaucetModule": {
+    "tokenName": "WTF Token",
+    "tokenSymbol": "WTF",
+    "initialSupply": "1000000000000000000000000n",
+    "faucetFundAmount": "100000000000000000000000n"
+  }
+}

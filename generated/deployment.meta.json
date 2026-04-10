@@ -1,0 +1,16 @@
+{
+  "deploymentId": "chain-31337-1775791132168",
+  "chainId": 31337,
+  "networkName": "localhost",
+  "contracts": {
+    "token": {
+      "artifactName": "MyToken",
+      "address": "0x4ed7c70F96B99c776995fB64377f0d4aB3B0e1C1"
+    },
+    "faucet": {
+      "artifactName": "TokenFaucet",
+      "address": "0x322813Fd9A801c5507c9de605d63CEA4f2CE6c44"
+    }
+  },
+  "exportedAt": "2026-04-10T03:18:52.265Z"
+}
